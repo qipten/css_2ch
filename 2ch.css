@@ -27,8 +27,8 @@ header{background:#ccc; display:flex; position:fixed; text-align:center;}
 
 hr{display:none;}
 
-nav.rmenu{background:#eee; color:transparent; display:flex; left:5%; position:fixed; top:0; width:100%;}
+nav.rmenu{background:#eee; color:transparent; display:none; left:5%; position:fixed; top:0; width:100%;}
 
-section.posts{margin:1em 0 0 0; text-align:center;}
+section.posts{margin:0; text-align:center;}
 
 .reply.hidden-thread-box,.hidden-post-box{border:none!important; cursor:pointer;}
